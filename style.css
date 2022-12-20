@@ -1,0 +1,28 @@
+body{
+ background:mediumaquamarine;   
+}
+.header_div{
+ background:lightblue ;
+ color: aqua;   
+}
+.header_div p{
+font-size: 12px;
+font-weight: bold;
+letter-spacing: 2px;    
+}
+.main_div button{
+margin-top: 30px;
+width: 130px;
+letter-spacing: 3px;    
+}
+.footer{
+ position: fixed;
+ color: chartreuse;
+ bottom: 0;
+ width: 100%;
+ font-size: 18px;
+ background-color: cornflowerblue;
+ line-height: 3;
+ text-align: center;
+ text-shadow: 5px 5px 5px cyan;
+}
